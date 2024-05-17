@@ -1,0 +1,453 @@
+--
+title: "Project"
+author: "Harish Krishnamoorthy Murali"
+date: "2024-03-21"
+output: html_document
+---
+
+## R Markdown
+
+
+```{r echo = F}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(broom)
+library(report)
+library(readr)
+library(tidymodels)
+library(stargazer)
+library(ggcorrplot)
+library(caret)
+library(jtools)
+library(foreign)
+library(glmnet)
+library(formatR)
+library(rstan)
+library(mlbench)
+library(ISLR2)
+library(ISLR)
+```
+
+```{r}
+library(brms)
+library(ggplot2)
+
+# Load required library
+library(tidyverse)
+
+# Read the dataset
+income_1974 <- read.csv("GSS_Salaries_1974_Copy.csv")
+income_2018 <- read.csv("GSS_Salaries_2018_Copy.csv")
+
+# Display the structure of the dataset
+glimpse(income_1974)
+glimpse(income_2018)
+```
+
+```{r}
+# Load required libraries
+library(tidyverse)
+library(reshape2) 
+# Assuming your dataset is already loaded as 'gss_wages'
+
+# View the structure of the dataset
+str(income_1974)
+
+# Summary statistics
+summary(income_1974)
+
+# Explore distribution of numerical variables
+numeric_vars <- select_if(income_1974, is.numeric)
+summary(numeric_vars)
+
+# Plot histograms for numerical variables
+numeric_vars %>%
+  gather() %>%
+  ggplot(aes(value)) +
+  geom_histogram(bins = 20) +
+  facet_wrap(~key, scales = "free") +
+  ggtitle("Histograms of Numerical Variables")
+
+# Explore categorical variables
+cat_vars <- select_if(income_1974, is.character)
+summary(cat_vars)
+
+# Plot bar plots for categorical variables
+cat_vars %>%
+  gather() %>%
+  ggplot(aes(x = value)) +
+  geom_bar() +
+  facet_wrap(~key, scales = "free") +
+  ggtitle("Bar Plots of Categorical Variables")
+
+# Relationship between variables
+# Scatter plot matrix for numerical variables
+pairs(numeric_vars)
+
+# Boxplots for numerical variables by categorical variables
+numeric_cat_vars <- bind_cols(numeric_vars, cat_vars)
+numeric_cat_vars %>%
+  gather(variable, value, -matches("^year$")) %>%
+  ggplot(aes(x = variable, y = value)) +
+  geom_boxplot() +
+  facet_wrap(~variable, scales = "free_y") +
+  ggtitle("Boxplots of Numerical Variables by Variable")
+
+# Correlation matrix
+correlation_matrix <- cor(numeric_vars)
+correlation_matrix
+
+# Heatmap of correlation matrix
+ggplot(data = melt(correlation_matrix), aes(Var1, Var2, fill = value)) +
+  geom_tile() +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 0, limit = c(-1,1), space = "Lab", 
+                       name="Pearson\nCorrelation") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, 
+                                   size = 12, hjust = 1)) +
+  coord_fixed()
+
+
+
+```
+
+
+```{r}
+# Load required libraries
+library(tidyverse)
+library(reshape2) 
+# Assuming your dataset is already loaded as 'gss_wages'
+
+# View the structure of the dataset
+str(income_2018)
+
+# Summary statistics
+summary(income_2018)
+
+# Explore distribution of numerical variables
+numeric_vars <- select_if(income_2018, is.numeric)
+summary(numeric_vars)
+
+# Plot histograms for numerical variables
+numeric_vars %>%
+  gather() %>%
+  ggplot(aes(value)) +
+  geom_histogram(bins = 20) +
+  facet_wrap(~key, scales = "free") +
+  ggtitle("Histograms of Numerical Variables")
+
+# Explore categorical variables
+cat_vars <- select_if(income_2018, is.character)
+summary(cat_vars)
+
+# Plot bar plots for categorical variables
+cat_vars %>%
+  gather() %>%
+  ggplot(aes(x = value)) +
+  geom_bar() +
+  facet_wrap(~key, scales = "free") +
+  ggtitle("Bar Plots of Categorical Variables")
+
+# Relationship between variables
+# Scatter plot matrix for numerical variables
+pairs(numeric_vars)
+
+# Boxplots for numerical variables by categorical variables
+numeric_cat_vars <- bind_cols(numeric_vars, cat_vars)
+numeric_cat_vars %>%
+  gather(variable, value, -matches("^year$")) %>%
+  ggplot(aes(x = variable, y = value)) +
+  geom_boxplot() +
+  facet_wrap(~variable, scales = "free_y") +
+  ggtitle("Boxplots of Numerical Variables by Variable")
+
+# Correlation matrix
+correlation_matrix <- cor(numeric_vars)
+correlation_matrix
+
+# Heatmap of correlation matrix
+ggplot(data = melt(correlation_matrix), aes(Var1, Var2, fill = value)) +
+  geom_tile() +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 0, limit = c(-1,1), space = "Lab", 
+                       name="Pearson\nCorrelation") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, 
+                                   size = 12, hjust = 1)) +
+  coord_fixed()
+
+
+```
+```{r}
+# Assuming your data frame is called 'df' and contains columns 'occupation', 'gender', and 'income'
+
+library(ggplot2)
+
+# Create the bar plot
+ggplot(income_1974, aes(x = occrecode, y = realrinc, fill = gender)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Income by Occupation and Gender",
+       x = "Occupation",
+       y = "Income",
+       fill = "Gender") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+```{r}
+# Assuming your data frame is called 'df' and contains columns 'occupation', 'gender', and 'income'
+
+library(ggplot2)
+
+# Create the bar plot
+ggplot(income_2018, aes(x = occrecode, y = realrinc, fill = gender)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Income by Occupation and Gender",
+       x = "Occupation",
+       y = "Income",
+       fill = "Gender") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+```{r}
+# Trying out certain relationships
+model_1 <- brm(
+  formula = realrinc ~ gender + occrecode + prestg10,
+  data = income_1974,
+  family = gaussian(),
+  chains = 4
+)
+summary(model_1)
+
+```
+
+```{r}
+
+model_2 <- brm(
+  formula = realrinc ~ gender + occrecode + prestg10,
+  data = income_2018,
+  family = gaussian(),
+  chains = 4
+)
+summary(model_2)
+
+```
+```{r}
+model_3 <- brm(
+  formula = prestg10 ~ educcat,
+  data = income_1974,
+  family = gaussian(),
+  chains = 4
+)
+summary(model_3)
+
+```
+
+```{r}
+
+lm_model_hypothesis_1 <- lm(realrinc ~ gender + occrecode + prestg10 + gender:prestg10, data = income_1974)
+
+
+lm_model_hypothesis_2 <- lm(realrinc ~ maritalcat + childs, data = income_1974)
+
+
+lm_model_hypothesis_3 <- lm(prestg10 ~ educcat, data = income_1974)
+
+# Summary of linear regression models
+summary(lm_model_hypothesis_1)
+summary(lm_model_hypothesis_2)
+summary(lm_model_hypothesis_3)
+```
+
+```{r}
+# some other models tried out
+lm_model_hypothesis_1 <- lm(realrinc ~ gender + occrecode + prestg10 + gender:prestg10, data = income_2018)
+
+lm_model_hypothesis_2 <- lm(realrinc ~ maritalcat + childs, data = income_2018)
+
+lm_model_hypothesis_3 <- lm(prestg10 ~ educcat, data = income_2018)
+
+# Summary of linear regression models
+summary(lm_model_hypothesis_1)
+summary(lm_model_hypothesis_2)
+summary(lm_model_hypothesis_3)
+```
+
+```{r}
+# Load required libraries
+library(brms)
+
+# Gender as a Moderator
+brm_gender_mod <- lm(realrinc ~ gender * prestg10, data = income_1974)
+
+# Educcat as a Moderator
+brm_educcat_mod <- lm(realrinc ~ educcat * prestg10, data = income_1974)
+
+# Educcat as a Confounder
+brm_educcat_conf <- lm(realrinc ~ educcat + prestg10, data = income_1974)
+
+# Summary of models
+summary(brm_gender_mod)
+summary(brm_educcat_mod)
+summary(brm_educcat_conf)
+
+```
+
+```{r}
+# Load required libraries
+library(brms)
+
+# Gender as a Moderator
+brm_gender_mod <- lm(realrinc ~ gender * prestg10, data = income_2018)
+
+# Educcat as a Moderator
+brm_educcat_mod <- lm(realrinc ~ educcat * prestg10, data = income_2018)
+
+# Educcat as a Confounder
+brm_educcat_conf <- lm(realrinc ~ educcat + prestg10, data = income_2018)
+
+# Summary of models
+summary(brm_gender_mod)
+summary(brm_educcat_mod)
+summary(brm_educcat_conf)
+
+```
+
+```{r}
+# Assuming 'occrecode' is a factor variable
+lm_model <- lm(realrinc ~ educcat * occrecode, data = income_1974)
+summary(lm_model)
+```
+```{r}
+# Assuming 'occrecode' is a factor variable
+lm_model <- lm(realrinc ~ educcat * occrecode, data = income_2018)
+summary(lm_model)
+```
+
+```{r}
+# Educcat as a Moderator
+brm_1 <- brm(realrinc ~ educcat * prestg10 + occrecode, data = income_2018, family=gaussian())
+brm_2 <- brm(realrinc ~ educcat * prestg10 + occrecode + gender, data = income_2018, family=gaussian())
+summary(brm_1)
+summary(brm_2)
+```
+
+```{r}
+# Compute LOO for each model
+loo_model1 <- loo(brm_1)
+loo_model2 <- loo(brm_2)
+
+# Compare LOO values
+print(loo_model1)
+print(loo_model2)
+```
+```{r}
+print(loo_model1)
+```
+```{r}
+brm_all <- brm(realrinc ~ age + prestg10 + occrecode + gender, data = income_2018, family=gaussian())
+summary(brm_all)
+```
+
+```{r}
+print(loo_model1)
+print(loo_model2)
+print(loo(brm_all))
+print(loo(brms_model_hypothesis_1_2018))
+```
+```{r}
+# Hypothesis 1: Linear regression model
+brms_model_hypothesis_1_1974 <- brm(realrinc ~ age + occrecode + educcat + gender*prestg10, data = income_1974, family=gaussian())
+
+summary(brms_model_hypothesis_1_1974)
+
+```
+```{r}
+brms_model_hypothesis_1_2018 <- brm(realrinc ~ age + occrecode + educcat + gender*prestg10, data = income_2018, family=gaussian())
+
+summary(brms_model_hypothesis_1_2018)
+```
+```{r}
+lm_model <- lm(realrinc ~ educcat * occrecode, data = income_1974)
+summary(lm_model)
+```
+```{r}
+# hypothesis 2
+lm_model_1974 <- lm(realrinc ~ educcat * occrecode, data = income_1974)
+summary(lm_model_1974)
+
+lm_model_2018 <- lm(realrinc ~ educcat * occrecode, data = income_2018)
+summary(lm_model_2018)
+```
+
+```{r}
+# hypothesis 2 - brm
+brm_model_1974 <- brm(realrinc ~ educcat * occrecode, data = income_1974, family=gaussian())
+summary(brm_model_1974)
+
+brm_model_2018 <- brm(realrinc ~ educcat * occrecode, data = income_2018, family=gaussian())
+summary(brm_model_2018)
+```
+```{r}
+# hypothesis 3
+lm_educcat_moder_1974 <- lm(realrinc ~ educcat * prestg10, data = income_1974)
+summary(lm_educcat_moder_1974)
+
+lm_educcat_moder_2018 <- lm(realrinc ~ educcat * prestg10, data = income_2018)
+summary(lm_educcat_moder_2018)
+```
+```{r}
+# hypothesis 3
+brm_educcat_moder_1974 <- brm(realrinc ~ educcat * prestg10, data = income_1974)
+summary(brm_educcat_moder_1974)
+
+brm_educcat_moder_2018 <- brm(realrinc ~ educcat * prestg10, data = income_2018)
+summary(brm_educcat_moder_2018)
+```
+```{r}
+library(stargazer)
+stargazer(lm_model_1974,type="text")
+```
+
+```{r}
+pp_check(brms_model_hypothesis_1_2018)
+```
+
+```{r}
+# Define control parameters for cross-validation
+control <- trainControl(method = "cv", number = 10) # 10-fold CV
+
+# Fit the model with cross-validation
+cv_model_1 <- train(realrinc ~ age + occrecode + educcat + gender*prestg10, 
+                  data = income_2018, 
+                  method = "lm", 
+                  family = binomial(link = "logit"), 
+                  trControl = control)
+
+# Fit the model with cross-validation
+cv_model_2 <- train(realrinc ~ educcat * occrecode, 
+                  data = income_2018, 
+                  method = "lm", 
+                  family = binomial(link = "logit"), 
+                  trControl = control)
+
+cv_model_3 <- train(realrinc ~ educcat * prestg10, 
+                  data = income_2018, 
+                  method = "lm", 
+                  family = binomial(link = "logit"), 
+                  trControl = control)
+
+
+# Review cross-validation results
+print(cv_model_1)
+print(cv_model_2)
+print(cv_model_3)
+
+```
+
+

@@ -1,0 +1,977 @@
+occrecode,age,prestg10,childs,gender,educcat,maritalcat,realrinc
+Professional,42,61,2,Male,Bachelor,Married,45400
+Professional,63,59,2,Female,Bachelor,Married,54480
+Service,59,48,6,Female,High School,Divorced,8512.5
+Office and Administrative Support,43,35,0,Male,High School,Never Married,17025
+Service,62,35,4,Female,Less Than High School,Widowed,908
+Construction/Extraction,55,39,2,Male,High School,Married,45400
+Business/Finance,59,72,2,Male,Graduate,Divorced,54480
+Professional,44,72,2,Male,Bachelor,Married,45400
+Professional,40,64,2,Female,Graduate,Divorced,30645
+Office and Administrative Support,34,38,1,Female,High School,Married,17025
+Professional,40,64,1,Female,Junior College,Married,45400
+Construction/Extraction,37,35,0,Male,High School,Never Married,20430
+Office and Administrative Support,68,38,3,Female,High School,Divorced,17025
+Business/Finance,56,64,0,Female,Bachelor,Divorced,54480
+Professional,65,60,5,Male,Graduate,Married,45400
+Professional,34,73,0,Male,Graduate,Never Married,20430
+Professional,45,53,1,Male,Graduate,Married,20430
+"Installation, Maintenance, and Repair",52,42,0,Male,High School,Never Married,17025
+Business/Finance,42,53,3,Female,High School,Separated,12485
+Service,59,48,2,Female,Graduate,Divorced,37455
+Professional,46,60,2,Male,Bachelor,Married,151050.7214
+Professional,55,66,1,Male,Bachelor,Divorced,63560
+Transportation,23,25,0,Male,Less Than High School,Never Married,30645
+Sales,41,43,0,Female,Bachelor,Never Married,24970
+Transportation,34,35,3,Male,High School,Married,24970
+Sales,32,58,0,Female,Graduate,Never Married,63560
+Business/Finance,37,39,0,Male,Junior College,Married,30645
+Professional,42,63,2,Female,Graduate,Married,14755
+Business/Finance,21,45,0,Male,High School,Never Married,3405
+Office and Administrative Support,33,32,2,Female,Junior College,Never Married,17025
+Business/Finance,37,57,2,Female,Bachelor,Married,63560
+Service,37,51,1,Female,High School,Divorced,7377.5
+Service,40,38,4,Female,High School,Married,20430
+Service,28,60,0,Male,Bachelor,Never Married,20430
+Service,53,25,2,Female,High School,Never Married,227
+Professional,55,55,0,Male,Graduate,Married,24970
+Professional,28,67,0,Male,Graduate,Never Married,4086
+Service,48,59,1,Male,Less Than High School,Divorced,24970
+Business/Finance,50,60,0,Male,Graduate,Married,54480
+Office and Administrative Support,60,32,0,Male,High School,Never Married,45400
+Construction/Extraction,23,43,0,Male,High School,Never Married,20430
+Professional,55,64,2,Female,Junior College,Divorced,45400
+Sales,70,31,3,Male,Bachelor,Married,63560
+Construction/Extraction,32,44,0,Male,High School,Never Married,20430
+Business/Finance,61,53,2,Female,High School,Married,20430
+Professional,48,64,0,Male,Graduate,Never Married,45400
+Professional,68,71,2,Female,Graduate,Married,37455
+Business/Finance,38,51,2,Male,Graduate,Married,20430
+Professional,39,67,1,Female,Graduate,Never Married,72640
+Professional,60,73,3,Male,Bachelor,Married,63560
+Business/Finance,69,72,2,Male,High School,Married,72640
+Professional,60,52,0,Male,High School,Married,54480
+Office and Administrative Support,35,25,0,Female,Bachelor,Married,20430
+Transportation,38,22,2,Female,Less Than High School,Married,4086
+Professional,25,64,0,Female,High School,Never Married,5107.5
+"Installation, Maintenance, and Repair",55,44,2,Male,Junior College,Divorced,20430
+Service,56,59,3,Male,High School,Divorced,30645
+Professional,26,52,0,Female,Bachelor,Never Married,6242.5
+Professional,59,71,2,Female,Graduate,Separated,45400
+Professional,39,47,0,Female,Graduate,Never Married,30645
+Business/Finance,46,64,4,Female,Bachelor,Separated,8512.5
+Service,57,48,0,Male,Less Than High School,Never Married,20430
+Service,35,24,4,Female,Less Than High School,Married,908
+Sales,58,31,4,Female,High School,Separated,12485
+Production,48,32,5,Female,Less Than High School,Married,3405
+Production,51,35,3,Female,Less Than High School,Separated,6242.5
+Office and Administrative Support,41,38,2,Female,High School,Married,17025
+"Installation, Maintenance, and Repair",46,38,0,Male,Junior College,Never Married,24970
+Sales,36,31,3,Male,High School,Married,24970
+Service,19,24,0,Male,High School,Never Married,3405
+Business/Finance,60,41,0,Female,High School,Divorced,20430
+Professional,36,72,2,Male,Graduate,Married,151050.7214
+Business/Finance,42,72,3,Female,Graduate,Married,72640
+Business/Finance,61,46,0,Male,High School,Separated,63560
+Business/Finance,27,60,0,Male,Bachelor,Never Married,37455
+Professional,36,69,0,Male,Graduate,Never Married,30645
+Business/Finance,34,60,0,Male,Graduate,Never Married,37455
+Sales,46,47,1,Male,Bachelor,Divorced,63560
+Professional,46,65,2,Male,Bachelor,Married,45400
+Production,46,34,1,Male,High School,Never Married,30645
+Production,53,49,3,Male,High School,Divorced,54480
+"Farming, Fishing, and Forestry",36,47,1,Female,Bachelor,Married,24970
+Sales,60,48,0,Male,Bachelor,Never Married,45400
+Production,53,22,3,Female,Less Than High School,Divorced,10782.5
+Service,69,37,4,Male,High School,Married,10782.5
+Office and Administrative Support,38,46,3,Female,Bachelor,Married,30645
+Production,30,47,0,Male,Bachelor,Never Married,37455
+Sales,47,38,3,Male,High School,Married,24970
+Production,46,50,2,Male,High School,Married,54480
+Construction/Extraction,50,49,1,Male,Less Than High School,Married,2497
+Business/Finance,33,47,1,Female,High School,Married,17025
+Professional,34,59,2,Female,Graduate,Married,37455
+"Installation, Maintenance, and Repair",28,45,0,Male,High School,Never Married,17025
+Service,28,21,0,Female,Bachelor,Never Married,17025
+Business/Finance,51,39,1,Female,High School,Divorced,4086
+Business/Finance,42,60,2,Female,Bachelor,Divorced,30645
+Professional,29,55,0,Male,High School,Married,17025
+Business/Finance,48,49,0,Female,Bachelor,Married,37455
+Transportation,62,25,4,Female,Less Than High School,Widowed,14755
+Service,26,36,2,Male,High School,Never Married,20430
+Office and Administrative Support,61,39,3,Female,High School,Married,12485
+Office and Administrative Support,30,32,3,Female,High School,Married,17025
+Service,29,24,2,Male,High School,Never Married,20430
+Transportation,37,35,2,Male,Bachelor,Married,151050.7214
+Production,36,50,1,Male,High School,Never Married,14755
+"Installation, Maintenance, and Repair",31,44,3,Male,High School,Married,30645
+Sales,26,38,0,Male,Bachelor,Never Married,6242.5
+Sales,45,45,0,Male,Bachelor,Married,30645
+Office and Administrative Support,58,46,2,Male,Bachelor,Separated,37455
+Business/Finance,50,46,1,Female,Junior College,Divorced,37455
+Office and Administrative Support,36,40,0,Male,Bachelor,Never Married,30645
+Service,27,25,1,Female,High School,Never Married,17025
+Production,51,44,0,Male,High School,Never Married,20430
+Service,29,55,2,Female,High School,Never Married,8512.5
+Professional,65,48,3,Female,Graduate,Divorced,6242.5
+Business/Finance,53,72,1,Male,Bachelor,Married,45400
+Business/Finance,45,72,2,Male,Graduate,Married,151050.7214
+Construction/Extraction,60,49,1,Male,High School,Married,45400
+Professional,63,57,3,Female,Bachelor,Married,24970
+Business/Finance,52,53,1,Female,High School,Divorced,30645
+Sales,34,31,3,Male,High School,Married,17025
+Service,58,24,0,Male,High School,Married,17025
+Office and Administrative Support,39,46,1,Female,High School,Never Married,20430
+Business/Finance,59,53,1,Male,Bachelor,Divorced,54480
+Office and Administrative Support,38,47,2,Female,High School,Never Married,20430
+Sales,50,38,2,Male,High School,Divorced,20430
+Business/Finance,45,45,3,Female,Bachelor,Married,24970
+Professional,31,61,0,Female,Graduate,Never Married,30645
+Business/Finance,44,49,1,Female,Bachelor,Never Married,37455
+Business/Finance,46,52,1,Female,Bachelor,Married,30645
+Construction/Extraction,37,49,2,Male,High School,Married,37455
+Professional,52,65,1,Female,Graduate,Divorced,54480
+Professional,34,73,2,Male,High School,Separated,24970
+Professional,45,55,2,Female,High School,Divorced,10782.5
+Professional,29,60,3,Male,Bachelor,Never Married,45400
+Professional,58,75,0,Male,Graduate,Widowed,151050.7214
+Professional,42,50,2,Male,Graduate,Married,54480
+Office and Administrative Support,65,33,0,Male,High School,Divorced,24970
+Office and Administrative Support,25,38,0,Female,Bachelor,Never Married,14755
+Professional,34,61,5,Female,Graduate,Married,37455
+Professional,51,43,2,Male,High School,Married,30645
+Service,42,48,0,Male,Junior College,Never Married,8512.5
+Professional,34,75,0,Female,Graduate,Married,54480
+Office and Administrative Support,26,17,0,Female,Graduate,Never Married,17025
+Business/Finance,54,72,4,Male,Graduate,Married,151050.7214
+Professional,40,69,2,Female,Bachelor,Married,63560
+Sales,56,49,0,Female,Bachelor,Divorced,151050.7214
+Professional,60,44,3,Male,Graduate,Widowed,63560
+Professional,72,54,0,Male,Bachelor,Married,1589
+Professional,35,55,2,Female,Bachelor,Married,63560
+Business/Finance,55,39,4,Male,Graduate,Married,151050.7214
+Service,30,51,2,Female,High School,Never Married,17025
+Business/Finance,51,39,1,Female,Graduate,Married,151050.7214
+Professional,43,65,2,Male,Graduate,Married,54480
+Service,34,35,2,Female,Less Than High School,Never Married,4086
+Professional,39,43,3,Male,Graduate,Married,45400
+Business/Finance,52,72,1,Male,Junior College,Never Married,37455
+Sales,70,31,0,Male,High School,Separated,24970
+Office and Administrative Support,40,46,3,Female,Bachelor,Separated,14755
+"Installation, Maintenance, and Repair",44,45,2,Male,Junior College,Divorced,37455
+Professional,70,74,0,Female,Graduate,Never Married,63560
+Professional,27,65,0,Female,Bachelor,Never Married,37455
+Professional,30,72,0,Female,Graduate,Married,45400
+Business/Finance,61,72,2,Male,High School,Married,151050.7214
+Business/Finance,30,72,0,Male,Bachelor,Never Married,151050.7214
+Business/Finance,38,62,0,Male,Bachelor,Married,45400
+Business/Finance,27,53,0,Female,Bachelor,Never Married,37455
+Office and Administrative Support,45,36,2,Male,Bachelor,Separated,14755
+Service,18,48,0,Female,High School,Never Married,2497
+Professional,48,69,3,Female,Graduate,Married,45400
+Office and Administrative Support,41,17,0,Female,Bachelor,Never Married,24970
+Professional,30,65,0,Female,Bachelor,Never Married,30645
+Professional,29,74,0,Female,Graduate,Never Married,17025
+Professional,34,48,0,Male,Less Than High School,Married,37455
+Sales,34,38,0,Male,Bachelor,Never Married,12485
+Service,20,31,0,Female,High School,Never Married,908
+Production,53,38,3,Male,High School,Married,20430
+Professional,63,64,1,Female,Junior College,Married,45400
+Professional,32,57,2,Male,Bachelor,Married,151050.7214
+"Installation, Maintenance, and Repair",46,42,2,Male,High School,Separated,24970
+Business/Finance,59,47,1,Female,Junior College,Married,37455
+Production,47,35,2,Male,High School,Divorced,30645
+Service,57,48,2,Female,High School,Married,9647.5
+Business/Finance,44,58,2,Male,Graduate,Married,151050.7214
+Business/Finance,46,39,0,Female,Bachelor,Divorced,30645
+Service,42,25,3,Female,High School,Married,20430
+Office and Administrative Support,65,47,2,Female,Bachelor,Divorced,63560
+Business/Finance,36,50,2,Male,Bachelor,Married,151050.7214
+Professional,32,49,0,Female,Bachelor,Married,7377.5
+Sales,31,38,0,Female,High School,Never Married,17025
+Transportation,31,26,0,Male,Graduate,Married,10782.5
+Business/Finance,35,39,1,Female,Bachelor,Married,24970
+Sales,22,38,0,Male,High School,Never Married,24970
+Service,37,25,1,Female,High School,Never Married,14755
+Professional,34,64,0,Female,Bachelor,Never Married,72640
+Office and Administrative Support,46,35,4,Male,High School,Never Married,24970
+Professional,33,61,0,Female,Bachelor,Never Married,24970
+Business/Finance,46,39,3,Female,Graduate,Divorced,45400
+Office and Administrative Support,28,47,0,Male,Bachelor,Married,37455
+Professional,24,64,0,Female,Bachelor,Never Married,4086
+Professional,43,48,0,Male,Junior College,Married,37455
+Sales,32,28,1,Male,Bachelor,Never Married,17025
+Service,48,48,2,Female,Junior College,Married,30645
+Business/Finance,55,53,0,Female,Bachelor,Married,37455
+Office and Administrative Support,70,47,1,Female,High School,Divorced,14755
+Professional,37,54,1,Female,Graduate,Divorced,14755
+Business/Finance,43,47,0,Male,Graduate,Married,54480
+Professional,40,38,0,Female,Graduate,Married,37455
+"Installation, Maintenance, and Repair",59,45,2,Male,Bachelor,Married,1589
+Professional,51,64,0,Female,Graduate,Never Married,37455
+Office and Administrative Support,27,45,0,Male,High School,Never Married,8512.5
+Transportation,33,25,3,Male,Less Than High School,Married,14755
+Office and Administrative Support,46,46,2,Female,Bachelor,Married,72640
+Professional,72,69,3,Male,Graduate,Married,151050.7214
+Professional,35,64,0,Female,Bachelor,Never Married,20430
+Service,53,24,5,Male,Less Than High School,Married,14755
+Production,33,32,0,Male,High School,Married,37455
+Professional,38,55,0,Male,High School,Married,37455
+Professional,66,44,2,Male,Graduate,Married,30645
+Professional,29,65,0,Female,Bachelor,Married,24970
+Business/Finance,39,51,1,Male,Graduate,Married,54480
+Business/Finance,33,60,2,Female,Bachelor,Married,45400
+Professional,54,48,2,Male,Bachelor,Married,72640
+Business/Finance,59,53,1,Female,Bachelor,Widowed,54480
+Office and Administrative Support,60,47,1,Female,High School,Married,7377.5
+Production,63,38,3,Male,High School,Married,24970
+Sales,56,48,1,Female,High School,Divorced,24970
+Sales,26,31,0,Female,High School,Never Married,908
+Professional,55,61,1,Male,High School,Never Married,20430
+Business/Finance,57,53,2,Male,Graduate,Married,45400
+Professional,61,53,2,Male,Bachelor,Married,37455
+Business/Finance,39,49,3,Female,High School,Married,14755
+Office and Administrative Support,38,38,2,Female,High School,Married,14755
+Professional,49,75,2,Female,Graduate,Divorced,45400
+Transportation,47,66,0,Male,Bachelor,Never Married,45400
+"Installation, Maintenance, and Repair",52,42,4,Male,High School,Married,37455
+Sales,61,43,1,Male,High School,Divorced,151050.7214
+Business/Finance,53,53,2,Female,Bachelor,Married,45400
+Business/Finance,66,60,3,Male,Bachelor,Married,24970
+Professional,28,58,0,Male,Graduate,Never Married,24970
+Professional,29,60,0,Female,Bachelor,Never Married,30645
+Business/Finance,39,53,2,Male,Bachelor,Married,37455
+Sales,28,38,0,Male,High School,Never Married,9647.5
+Professional,53,44,2,Female,Bachelor,Married,17025
+Sales,67,45,3,Male,Bachelor,Married,72640
+Business/Finance,23,39,0,Female,Bachelor,Never Married,14755
+Office and Administrative Support,37,45,0,Male,Graduate,Married,37455
+Transportation,27,35,0,Male,High School,Never Married,30645
+Transportation,38,24,1,Male,High School,Separated,8512.5
+Professional,30,62,0,Female,Graduate,Never Married,24970
+Sales,44,45,1,Female,High School,Divorced,20430
+Service,56,33,1,Male,High School,Never Married,10782.5
+Service,27,48,3,Female,Less Than High School,Never Married,5107.5
+"Installation, Maintenance, and Repair",53,40,2,Male,Bachelor,Married,20430
+Business/Finance,66,46,1,Female,Junior College,Widowed,12485
+Business/Finance,48,45,3,Female,Bachelor,Divorced,24970
+Service,50,48,2,Female,High School,Married,17025
+Professional,63,69,4,Female,High School,Divorced,24970
+Construction/Extraction,26,27,1,Male,High School,Never Married,12485
+Business/Finance,53,58,1,Female,Graduate,Married,63560
+Production,28,38,0,Male,High School,Never Married,2497
+Professional,56,48,3,Male,High School,Married,24970
+Transportation,39,35,3,Female,High School,Married,8512.5
+"Farming, Fishing, and Forestry",22,27,0,Male,Less Than High School,Never Married,2043
+"Installation, Maintenance, and Repair",40,45,2,Male,Less Than High School,Divorced,24970
+Business/Finance,41,51,1,Female,Graduate,Never Married,37455
+"Installation, Maintenance, and Repair",34,45,2,Male,High School,Married,30645
+Professional,49,62,3,Female,High School,Separated,45400
+Professional,31,69,1,Female,Graduate,Never Married,17025
+Office and Administrative Support,39,46,1,Female,High School,Never Married,17025
+Professional,62,74,3,Male,Graduate,Divorced,37455
+Transportation,28,26,1,Female,High School,Married,12485
+Office and Administrative Support,42,50,1,Female,High School,Never Married,17025
+Production,40,35,4,Male,High School,Divorced,30645
+"Installation, Maintenance, and Repair",57,43,2,Male,Junior College,Married,63560
+Professional,51,54,1,Male,High School,Married,4086
+Professional,55,69,0,Female,Graduate,Divorced,54480
+Transportation,40,22,3,Female,High School,Married,151050.7214
+Professional,29,67,0,Female,Graduate,Never Married,24970
+Service,36,25,2,Female,High School,Never Married,6242.5
+Production,40,35,2,Male,High School,Married,20430
+Sales,47,45,0,Male,High School,Married,30645
+Service,51,50,2,Male,High School,Divorced,14755
+Professional,47,57,2,Female,High School,Married,17025
+Professional,68,66,2,Male,Bachelor,Married,17025
+Service,34,59,0,Male,Junior College,Never Married,20430
+Professional,30,61,0,Female,Bachelor,Never Married,3405
+Business/Finance,49,53,4,Male,High School,Married,151050.7214
+Office and Administrative Support,22,40,0,Male,High School,Never Married,10782.5
+Office and Administrative Support,50,40,3,Male,High School,Divorced,17025
+Professional,59,64,4,Female,High School,Married,9647.5
+Service,54,38,2,Male,High School,Married,30645
+Professional,58,38,2,Female,Junior College,Married,20430
+"Installation, Maintenance, and Repair",34,45,2,Male,High School,Married,37455
+Office and Administrative Support,32,31,3,Female,High School,Divorced,8512.5
+Office and Administrative Support,46,25,1,Male,High School,Married,14755
+Transportation,33,35,0,Male,High School,Never Married,12485
+Office and Administrative Support,65,38,3,Male,High School,Married,24970
+Business/Finance,56,53,1,Female,High School,Divorced,37455
+Sales,71,49,5,Male,High School,Married,72640
+Service,33,37,0,Male,High School,Never Married,37455
+Service,28,49,0,Female,Graduate,Divorced,17025
+Service,38,48,1,Female,Less Than High School,Married,9647.5
+Professional,39,59,4,Male,Graduate,Married,63560
+Business/Finance,47,53,1,Female,Graduate,Married,63560
+Professional,46,64,2,Male,Graduate,Married,37455
+Business/Finance,48,50,2,Female,Bachelor,Divorced,72640
+Construction/Extraction,50,49,3,Male,Junior College,Widowed,9647.5
+Transportation,48,35,2,Male,High School,Divorced,24970
+Office and Administrative Support,59,32,3,Male,High School,Divorced,24970
+Office and Administrative Support,28,32,1,Female,Junior College,Married,14755
+Professional,40,52,2,Female,High School,Never Married,5107.5
+Transportation,50,32,2,Male,Less Than High School,Married,37455
+Service,20,60,0,Female,High School,Never Married,3405
+Office and Administrative Support,43,45,2,Male,High School,Married,30645
+Sales,28,47,0,Female,High School,Married,12485
+Professional,46,38,0,Male,Bachelor,Never Married,24970
+Professional,47,73,4,Male,Less Than High School,Married,9647.5
+Office and Administrative Support,65,45,0,Female,High School,Widowed,20430
+"Installation, Maintenance, and Repair",57,28,3,Female,High School,Married,20430
+Transportation,30,35,0,Male,High School,Never Married,24970
+Production,47,60,3,Male,High School,Divorced,54480
+Office and Administrative Support,23,25,0,Male,High School,Never Married,10782.5
+Professional,27,59,0,Male,High School,Never Married,14755
+Production,54,47,0,Male,Bachelor,Married,37455
+Business/Finance,36,63,2,Female,Bachelor,Married,45400
+Transportation,44,26,2,Male,High School,Widowed,151050.7214
+Professional,43,60,0,Male,Bachelor,Never Married,63560
+Service,27,31,0,Female,Junior College,Never Married,7377.5
+Transportation,28,35,0,Male,Less Than High School,Never Married,37455
+Service,34,34,0,Male,Bachelor,Married,20430
+Professional,35,51,1,Female,Bachelor,Married,20430
+"Installation, Maintenance, and Repair",56,38,1,Male,High School,Divorced,30645
+"Installation, Maintenance, and Repair",48,43,2,Male,High School,Married,37455
+Business/Finance,55,42,2,Male,Junior College,Divorced,30645
+Professional,28,55,3,Female,High School,Never Married,17025
+Service,24,38,2,Female,High School,Married,9647.5
+Professional,24,61,1,Female,High School,Never Married,9647.5
+Service,29,35,0,Female,High School,Married,5107.5
+Professional,59,38,3,Female,High School,Widowed,17025
+Professional,19,53,0,Female,High School,Married,10782.5
+Production,48,35,0,Male,Less Than High School,Married,9647.5
+Business/Finance,49,53,3,Female,Graduate,Married,63560
+Office and Administrative Support,39,31,3,Male,High School,Married,24970
+Office and Administrative Support,45,24,6,Female,Junior College,Separated,12485
+Professional,32,73,0,Male,Bachelor,Never Married,20430
+Professional,54,61,2,Female,Bachelor,Divorced,30645
+Professional,64,55,2,Male,Bachelor,Married,63560
+Professional,56,55,2,Female,Bachelor,Divorced,37455
+Professional,50,65,0,Male,Bachelor,Married,63560
+Production,49,35,0,Male,High School,Never Married,1589
+Business/Finance,61,46,2,Male,High School,Married,151050.7214
+Business/Finance,74,60,5,Male,Bachelor,Married,151050.7214
+"Installation, Maintenance, and Repair",41,56,0,Male,Junior College,Divorced,24970
+Service,78,37,0,Male,Less Than High School,Married,30645
+Service,41,38,3,Female,High School,Separated,9647.5
+Professional,56,50,1,Male,High School,Married,30645
+Transportation,25,35,3,Male,High School,Married,14755
+Office and Administrative Support,55,47,2,Female,Junior College,Married,20430
+Professional,53,61,4,Female,Bachelor,Divorced,37455
+Office and Administrative Support,57,47,0,Male,High School,Never Married,30645
+Business/Finance,53,50,3,Female,Junior College,Married,24970
+Sales,56,48,2,Female,Bachelor,Married,45400
+Office and Administrative Support,35,46,0,Male,Bachelor,Never Married,30645
+Professional,64,73,2,Female,Bachelor,Married,227
+Business/Finance,41,59,2,Female,High School,Divorced,30645
+Professional,42,63,0,Female,Bachelor,Divorced,63560
+Business/Finance,45,60,2,Male,Bachelor,Married,30645
+Business/Finance,49,52,0,Female,Graduate,Married,30645
+Professional,47,31,4,Male,Bachelor,Married,14755
+Professional,57,73,2,Male,Bachelor,Divorced,20430
+Business/Finance,68,45,1,Female,Bachelor,Widowed,10782.5
+Professional,63,56,0,Female,Bachelor,Divorced,14755
+Transportation,56,35,2,Male,Less Than High School,Divorced,30645
+Production,44,35,2,Male,High School,Divorced,45400
+Sales,39,24,2,Male,High School,Never Married,24970
+Production,57,35,0,Male,High School,Divorced,14755
+Production,25,24,0,Male,High School,Never Married,14755
+Service,19,21,0,Female,High School,Never Married,908
+Office and Administrative Support,27,17,0,Female,High School,Married,14755
+Professional,35,63,3,Male,High School,Divorced,24970
+Office and Administrative Support,32,46,1,Female,High School,Married,12485
+Office and Administrative Support,56,35,4,Male,High School,Married,17025
+"Installation, Maintenance, and Repair",43,45,2,Male,High School,Never Married,14755
+Service,43,25,6,Female,High School,Divorced,12485
+Business/Finance,58,39,2,Male,Bachelor,Widowed,63560
+Business/Finance,51,53,2,Male,High School,Married,37455
+Professional,59,61,2,Female,Graduate,Married,14755
+Business/Finance,61,49,4,Female,Bachelor,Married,14755
+Service,50,48,2,Female,Junior College,Married,20430
+Business/Finance,39,57,2,Male,Graduate,Married,54480
+Professional,54,69,3,Female,Junior College,Separated,30645
+Office and Administrative Support,59,35,3,Male,High School,Married,24970
+Business/Finance,55,42,2,Male,High School,Married,10782.5
+Business/Finance,45,53,0,Male,Bachelor,Separated,24970
+"Farming, Fishing, and Forestry",49,27,5,Male,Less Than High School,Married,20430
+Professional,38,61,2,Male,Bachelor,Married,14755
+Business/Finance,25,39,0,Female,Bachelor,Never Married,14755
+Professional,36,50,3,Male,High School,Married,30645
+Production,22,50,0,Male,High School,Married,37455
+Sales,40,47,0,Male,High School,Never Married,24970
+Sales,26,31,3,Female,High School,Separated,45400
+Service,60,24,3,Female,Less Than High School,Divorced,12485
+Business/Finance,54,63,3,Female,High School,Divorced,24970
+Service,27,33,0,Male,Less Than High School,Never Married,20430
+Office and Administrative Support,27,38,1,Female,Junior College,Never Married,10782.5
+Professional,34,55,2,Male,High School,Never Married,20430
+Transportation,41,35,5,Male,Bachelor,Married,54480
+Business/Finance,32,53,2,Female,High School,Divorced,151050.7214
+Business/Finance,42,72,2,Male,Graduate,Married,37455
+Professional,57,50,2,Male,Bachelor,Married,24970
+Professional,43,74,2,Female,Bachelor,Married,20430
+Business/Finance,46,51,2,Male,Bachelor,Married,54480
+Professional,50,61,0,Female,Graduate,Never Married,45400
+Sales,25,58,0,Male,Bachelor,Never Married,2497
+Professional,37,60,0,Female,Bachelor,Married,45400
+Office and Administrative Support,34,45,0,Female,High School,Never Married,20430
+Sales,23,38,0,Female,High School,Never Married,6242.5
+Office and Administrative Support,24,49,0,Female,High School,Never Married,17025
+Business/Finance,61,60,3,Male,Bachelor,Divorced,20430
+Professional,39,53,2,Male,Bachelor,Divorced,20430
+Professional,65,61,2,Male,Graduate,Separated,151050.7214
+Service,26,24,0,Female,High School,Never Married,12485
+Sales,55,45,5,Female,Bachelor,Married,37455
+Professional,51,64,2,Female,Graduate,Married,37455
+Business/Finance,50,64,0,Female,Bachelor,Never Married,45400
+"Installation, Maintenance, and Repair",61,44,2,Male,Junior College,Married,20430
+Service,19,34,0,Female,High School,Never Married,1589
+Office and Administrative Support,42,46,3,Female,High School,Never Married,20430
+Service,30,33,2,Male,High School,Married,14755
+Business/Finance,46,53,3,Female,Junior College,Never Married,20430
+Professional,35,48,2,Female,High School,Never Married,10782.5
+Construction/Extraction,34,49,4,Male,Bachelor,Married,151050.7214
+Construction/Extraction,58,49,4,Male,Junior College,Divorced,45400
+"Installation, Maintenance, and Repair",55,42,2,Male,High School,Widowed,63560
+Production,54,35,0,Male,High School,Never Married,20430
+Business/Finance,44,42,0,Female,Bachelor,Divorced,24970
+Professional,55,70,1,Male,High School,Never Married,45400
+Transportation,54,25,1,Male,High School,Divorced,24970
+Service,51,24,0,Male,Junior College,Never Married,908
+Business/Finance,39,50,2,Male,Less Than High School,Never Married,20430
+Professional,54,64,2,Male,Bachelor,Divorced,37455
+Professional,37,65,2,Female,Graduate,Married,37455
+Business/Finance,45,39,3,Male,Bachelor,Divorced,151050.7214
+Professional,43,60,2,Male,Graduate,Married,30645
+Professional,23,65,0,Male,High School,Never Married,9647.5
+"Farming, Fishing, and Forestry",22,33,0,Male,High School,Never Married,5107.5
+Sales,21,38,0,Male,Less Than High School,Never Married,6242.5
+Production,65,38,4,Male,High School,Married,14755
+Sales,47,31,2,Female,High School,Divorced,14755
+Transportation,58,22,7,Male,High School,Married,9647.5
+Professional,44,64,6,Female,High School,Divorced,30645
+Business/Finance,51,53,2,Male,Junior College,Divorced,30645
+Business/Finance,53,51,3,Female,High School,Widowed,24970
+Business/Finance,44,47,5,Female,Junior College,Never Married,5107.5
+Business/Finance,37,47,4,Female,High School,Married,12485
+Business/Finance,50,50,2,Male,Bachelor,Married,24970
+Business/Finance,49,50,2,Female,Bachelor,Married,24970
+Production,42,40,0,Male,High School,Divorced,14755
+Construction/Extraction,24,49,0,Male,High School,Never Married,14755
+Office and Administrative Support,33,38,4,Female,High School,Married,12485
+Business/Finance,46,53,3,Female,Bachelor,Divorced,30645
+Construction/Extraction,53,44,3,Male,High School,Married,24970
+Professional,30,69,0,Male,Graduate,Married,30645
+Professional,61,65,2,Male,Bachelor,Married,45400
+Business/Finance,39,60,2,Male,Graduate,Married,45400
+Office and Administrative Support,60,46,0,Female,High School,Married,37455
+Service,47,42,2,Male,Bachelor,Divorced,24970
+Business/Finance,33,33,0,Male,High School,Married,20430
+Business/Finance,29,50,0,Male,Bachelor,Never Married,14755
+Sales,60,47,0,Female,High School,Divorced,20430
+Sales,55,43,0,Male,High School,Never Married,20430
+Business/Finance,50,59,1,Male,High School,Married,37455
+Production,70,39,3,Male,Junior College,Married,9647.5
+Professional,57,74,5,Female,High School,Married,17025
+Service,27,37,0,Male,High School,Married,5107.5
+Production,30,39,1,Female,High School,Never Married,12485
+Business/Finance,59,46,2,Female,High School,Divorced,2951
+Sales,22,43,1,Female,High School,Never Married,2951
+Professional,31,56,0,Male,Junior College,Never Married,14755
+Business/Finance,55,53,2,Male,Bachelor,Married,151050.7214
+Professional,63,69,8,Male,Graduate,Married,20430
+Transportation,40,35,4,Male,Less Than High School,Married,24970
+Production,42,28,3,Male,High School,Married,14755
+Sales,30,38,2,Female,Junior College,Never Married,17025
+Office and Administrative Support,33,45,0,Male,High School,Never Married,9647.5
+Professional,28,65,0,Male,Graduate,Never Married,30645
+Service,50,25,8,Male,High School,Married,10782.5
+Service,55,24,1,Male,High School,Never Married,45400
+Sales,28,47,3,Male,Junior College,Married,24970
+Professional,64,64,3,Male,Bachelor,Married,24970
+Professional,51,69,3,Female,Graduate,Married,151050.7214
+Sales,67,43,2,Male,Bachelor,Married,54480
+Business/Finance,34,53,2,Male,Bachelor,Married,45400
+Office and Administrative Support,39,32,0,Female,High School,Never Married,20430
+Professional,33,64,2,Female,Bachelor,Married,30645
+"Installation, Maintenance, and Repair",31,49,0,Male,Bachelor,Widowed,17025
+Professional,35,55,1,Male,High School,Married,12485
+Service,35,50,2,Male,High School,Married,24970
+Business/Finance,51,72,2,Female,High School,Married,72640
+Business/Finance,46,47,2,Female,Bachelor,Married,30645
+Sales,43,49,1,Male,High School,Never Married,151050.7214
+Professional,49,46,0,Male,Bachelor,Divorced,20430
+Service,41,48,6,Female,Less Than High School,Separated,3405
+Service,22,37,1,Male,High School,Married,10782.5
+Office and Administrative Support,43,32,1,Female,Graduate,Married,3405
+Professional,37,61,0,Male,High School,Divorced,37455
+Service,52,37,0,Male,High School,Never Married,12485
+Sales,38,38,0,Female,Bachelor,Never Married,45400
+Office and Administrative Support,50,25,1,Female,High School,Married,12485
+"Installation, Maintenance, and Repair",28,28,2,Male,High School,Married,12485
+Business/Finance,52,58,6,Male,Bachelor,Married,151050.7214
+"Installation, Maintenance, and Repair",22,45,0,Male,High School,Never Married,17025
+Business/Finance,57,50,1,Male,Less Than High School,Widowed,14755
+Office and Administrative Support,63,36,2,Female,High School,Married,17025
+Business/Finance,58,50,3,Female,Graduate,Widowed,45400
+Professional,25,74,0,Female,High School,Never Married,12485
+Construction/Extraction,39,28,0,Male,Less Than High School,Married,14755
+Professional,31,64,3,Female,Junior College,Never Married,4086
+Business/Finance,39,39,2,Female,High School,Divorced,17025
+Service,27,24,0,Male,Junior College,Married,20430
+Service,35,31,0,Male,High School,Never Married,10782.5
+Business/Finance,30,44,0,Male,High School,Never Married,17025
+Business/Finance,36,72,2,Male,Graduate,Married,151050.7214
+Office and Administrative Support,27,37,0,Female,Bachelor,Never Married,8512.5
+Office and Administrative Support,44,47,2,Female,High School,Divorced,5107.5
+Business/Finance,33,47,3,Female,Less Than High School,Never Married,1589
+Construction/Extraction,47,28,3,Male,High School,Married,54480
+Transportation,64,35,2,Male,High School,Widowed,12485
+Professional,37,68,0,Female,Bachelor,Married,45400
+Sales,31,48,0,Female,Bachelor,Never Married,24970
+Professional,32,71,0,Female,Bachelor,Married,12485
+Business/Finance,32,39,0,Female,Bachelor,Never Married,45400
+Office and Administrative Support,32,38,0,Male,Bachelor,Never Married,20430
+Office and Administrative Support,60,47,4,Female,Junior College,Divorced,17025
+Service,41,31,1,Female,Junior College,Never Married,20430
+Production,56,40,4,Male,High School,Divorced,10782.5
+Professional,24,51,0,Male,Bachelor,Never Married,24970
+Transportation,39,22,3,Female,Less Than High School,Widowed,1589
+Professional,36,65,3,Female,Bachelor,Married,24970
+Service,69,60,4,Male,Junior College,Married,45400
+Sales,39,49,2,Female,Bachelor,Married,20430
+Transportation,53,35,2,Male,High School,Married,30645
+Construction/Extraction,55,28,2,Male,High School,Separated,24970
+Professional,31,65,0,Male,Graduate,Married,14755
+Professional,73,74,2,Male,High School,Married,63560
+Construction/Extraction,30,28,0,Male,High School,Never Married,9647.5
+Office and Administrative Support,60,32,2,Female,High School,Married,24970
+Service,69,25,3,Female,Less Than High School,Widowed,5107.5
+Business/Finance,56,72,0,Male,Bachelor,Never Married,37455
+Business/Finance,61,33,1,Female,Bachelor,Divorced,54480
+Production,55,29,2,Male,High School,Divorced,24970
+"Installation, Maintenance, and Repair",36,44,3,Female,High School,Divorced,12485
+Office and Administrative Support,51,47,2,Female,Junior College,Married,24970
+"Installation, Maintenance, and Repair",24,42,0,Male,High School,Married,30645
+Professional,42,73,2,Male,High School,Married,45400
+Professional,26,55,0,Female,Junior College,Never Married,10782.5
+Office and Administrative Support,36,29,2,Female,High School,Married,12485
+"Installation, Maintenance, and Repair",32,42,2,Male,High School,Married,30645
+Office and Administrative Support,39,25,1,Female,Bachelor,Married,5107.5
+Service,31,32,3,Male,Graduate,Divorced,24970
+Service,35,33,2,Male,Less Than High School,Married,7377.5
+Business/Finance,49,64,3,Male,Bachelor,Divorced,45400
+Construction/Extraction,42,49,3,Male,High School,Married,20430
+"Installation, Maintenance, and Repair",57,45,1,Male,Junior College,Divorced,10782.5
+Business/Finance,23,47,0,Male,High School,Never Married,14755
+Business/Finance,46,47,2,Male,Junior College,Divorced,45400
+Professional,34,62,0,Female,High School,Never Married,20430
+Office and Administrative Support,49,47,2,Female,High School,Married,30645
+Office and Administrative Support,29,25,2,Male,High School,Married,14755
+Service,61,31,3,Female,High School,Divorced,20430
+Service,25,25,0,Female,High School,Never Married,2497
+Business/Finance,60,50,2,Male,High School,Married,37455
+Transportation,60,25,1,Male,High School,Married,30645
+Professional,31,64,1,Female,High School,Married,14755
+Professional,41,64,3,Female,Bachelor,Married,30645
+Service,29,16,1,Female,High School,Divorced,20430
+Service,38,25,1,Female,Bachelor,Married,10782.5
+Service,42,48,1,Female,High School,Divorced,12485
+Professional,29,61,1,Female,Graduate,Married,20430
+Office and Administrative Support,27,25,1,Male,High School,Married,24970
+Transportation,42,25,7,Male,Junior College,Married,1589
+Business/Finance,57,53,4,Male,Bachelor,Married,37455
+Sales,31,31,2,Male,Less Than High School,Married,5107.5
+Professional,38,66,1,Female,Graduate,Married,20430
+Business/Finance,38,39,2,Male,Junior College,Married,24970
+Office and Administrative Support,30,25,0,Female,Graduate,Never Married,2951
+Service,44,35,3,Male,High School,Married,17025
+Professional,40,64,0,Male,Bachelor,Never Married,20430
+Service,61,33,2,Female,Less Than High School,Widowed,12485
+Service,57,49,2,Female,High School,Married,9647.5
+Professional,37,64,0,Female,Bachelor,Never Married,30645
+Office and Administrative Support,52,46,2,Female,High School,Married,20430
+Construction/Extraction,28,31,0,Male,High School,Never Married,3405
+Business/Finance,60,60,2,Female,High School,Divorced,17025
+Production,45,32,5,Male,High School,Divorced,17025
+Service,49,37,0,Male,High School,Married,17025
+Service,45,48,3,Female,High School,Divorced,20430
+Professional,52,62,2,Male,Graduate,Married,30645
+Office and Administrative Support,58,47,2,Female,Bachelor,Married,24970
+Service,47,24,1,Female,High School,Divorced,12485
+"Installation, Maintenance, and Repair",58,56,0,Male,Bachelor,Never Married,37455
+Professional,35,54,0,Female,Graduate,Divorced,24970
+Business/Finance,50,53,1,Female,Junior College,Separated,20430
+Professional,29,64,3,Female,Bachelor,Never Married,14755
+Sales,26,48,1,Male,High School,Separated,9647.5
+Sales,31,45,0,Male,Bachelor,Never Married,20430
+Professional,46,52,2,Male,Graduate,Married,151050.7214
+"Installation, Maintenance, and Repair",49,43,2,Male,Bachelor,Never Married,5107.5
+Service,29,50,0,Male,High School,Married,9647.5
+Business/Finance,34,41,1,Female,High School,Married,30645
+Office and Administrative Support,44,46,2,Male,High School,Married,30645
+Service,65,37,3,Male,High School,Married,5107.5
+Transportation,48,25,1,Female,High School,Never Married,37455
+Business/Finance,55,72,3,Female,Graduate,Married,45400
+Service,55,48,5,Female,High School,Divorced,5107.5
+Construction/Extraction,26,28,2,Male,High School,Never Married,9647.5
+Transportation,59,35,4,Female,High School,Married,7377.5
+Office and Administrative Support,56,45,1,Female,High School,Divorced,30645
+Office and Administrative Support,27,42,1,Female,Junior College,Never Married,14755
+Business/Finance,69,33,2,Female,High School,Married,45400
+Sales,30,58,1,Female,High School,Never Married,227
+Professional,53,61,5,Female,Less Than High School,Married,17025
+Production,37,39,3,Female,Less Than High School,Divorced,8512.5
+Office and Administrative Support,63,39,2,Female,High School,Divorced,6242.5
+Service,33,60,0,Male,Bachelor,Never Married,37455
+Construction/Extraction,24,49,0,Female,High School,Never Married,14755
+Professional,56,80,0,Female,Bachelor,Divorced,151050.7214
+Sales,47,38,2,Male,High School,Married,30645
+Armed Forces,34,73,2,Male,Graduate,Married,54480
+Business/Finance,38,63,2,Male,Bachelor,Married,54480
+Office and Administrative Support,57,43,4,Female,Graduate,Married,12485
+Office and Administrative Support,63,25,5,Male,High School,Married,10782.5
+Office and Administrative Support,29,32,0,Male,High School,Never Married,10782.5
+Professional,77,55,2,Female,Bachelor,Married,12485
+"Farming, Fishing, and Forestry",38,27,1,Male,Less Than High School,Never Married,17025
+Service,27,48,2,Female,High School,Never Married,12485
+Service,23,48,1,Female,Junior College,Married,5107.5
+Service,25,48,0,Female,Junior College,Never Married,20430
+"Installation, Maintenance, and Repair",23,31,0,Female,High School,Never Married,4086
+Sales,50,18,2,Female,Less Than High School,Divorced,14755
+Professional,58,62,1,Female,Junior College,Separated,10782.5
+Production,58,50,3,Male,Less Than High School,Married,20430
+Transportation,34,25,3,Male,Less Than High School,Divorced,8512.5
+Transportation,32,35,1,Female,Junior College,Never Married,20430
+Construction/Extraction,35,49,2,Male,Less Than High School,Married,10782.5
+Service,32,50,1,Female,Less Than High School,Never Married,227
+Transportation,53,35,8,Male,High School,Married,8512.5
+Business/Finance,43,53,1,Female,Graduate,Married,30645
+"Farming, Fishing, and Forestry",62,27,2,Female,High School,Divorced,3405
+Office and Administrative Support,58,47,2,Female,High School,Married,14755
+Professional,42,73,0,Male,High School,Married,30645
+Sales,24,47,0,Female,High School,Married,9647.5
+Service,39,60,2,Female,High School,Married,9647.5
+Business/Finance,32,53,0,Female,Bachelor,Married,20430
+Sales,85,31,2,Male,Graduate,Married,37455
+Professional,44,74,1,Female,Bachelor,Married,20430
+Office and Administrative Support,60,25,3,Female,Bachelor,Married,17025
+Professional,61,64,1,Female,Graduate,Widowed,9647.5
+Service,42,59,6,Male,Less Than High School,Married,20430
+Business/Finance,51,53,2,Male,Bachelor,Separated,24970
+Business/Finance,38,39,1,Male,High School,Married,37455
+Professional,37,64,0,Male,Bachelor,Never Married,20430
+Service,35,25,2,Female,Less Than High School,Never Married,6242.5
+Professional,51,56,1,Female,High School,Married,20430
+Professional,37,53,1,Female,High School,Married,20430
+Transportation,32,35,1,Male,High School,Never Married,2043
+Professional,62,60,5,Male,High School,Divorced,54480
+Professional,41,51,2,Female,Graduate,Married,24970
+Service,36,24,0,Female,High School,Never Married,1589
+Office and Administrative Support,55,30,3,Female,High School,Divorced,6242.5
+Construction/Extraction,55,49,0,Female,High School,Never Married,17025
+Service,38,33,7,Male,Junior College,Married,4086
+Professional,54,31,2,Female,Bachelor,Never Married,4086
+Professional,33,62,0,Female,Bachelor,Never Married,17025
+Office and Administrative Support,38,40,1,Female,Junior College,Never Married,14755
+Professional,63,36,2,Male,High School,Never Married,14755
+Professional,20,74,0,Female,High School,Never Married,908
+Professional,54,43,2,Male,High School,Married,24970
+Professional,34,43,0,Male,Junior College,Never Married,9647.5
+Business/Finance,59,72,3,Male,Bachelor,Married,151050.7214
+Professional,34,69,1,Male,Graduate,Married,30645
+Professional,35,52,1,Female,Bachelor,Married,14755
+Construction/Extraction,47,42,5,Male,High School,Divorced,30645
+Professional,54,69,3,Female,Graduate,Married,151050.7214
+Business/Finance,33,60,1,Male,Bachelor,Married,17025
+Sales,53,38,2,Female,High School,Widowed,10782.5
+Office and Administrative Support,61,25,0,Male,Bachelor,Married,12485
+Service,42,59,2,Male,Junior College,Married,20430
+Office and Administrative Support,30,47,0,Female,High School,Never Married,12485
+Service,43,23,0,Female,High School,Never Married,9647.5
+Service,26,48,2,Female,High School,Never Married,10782.5
+Professional,42,52,1,Female,Junior College,Married,12485
+Business/Finance,42,39,4,Male,Bachelor,Married,37455
+Production,47,22,0,Male,High School,Married,24970
+Sales,65,38,0,Male,Graduate,Divorced,20430
+Transportation,37,51,2,Male,High School,Married,14755
+Sales,44,31,1,Male,High School,Divorced,10782.5
+Business/Finance,55,60,0,Female,Bachelor,Widowed,45400
+Business/Finance,37,46,3,Male,Junior College,Divorced,20430
+Business/Finance,60,39,0,Female,High School,Widowed,20430
+"Installation, Maintenance, and Repair",43,28,2,Male,Bachelor,Married,54480
+Professional,43,64,2,Female,Junior College,Married,20430
+Office and Administrative Support,21,32,0,Male,High School,Never Married,17025
+Business/Finance,51,33,4,Female,Bachelor,Divorced,17025
+Business/Finance,36,53,2,Male,Bachelor,Married,20430
+Service,30,53,1,Female,Bachelor,Married,12485
+Professional,73,54,1,Male,Bachelor,Divorced,17025
+Sales,34,43,2,Male,High School,Married,2043
+Professional,34,73,0,Male,Bachelor,Married,45400
+Professional,39,73,1,Male,Bachelor,Married,30645
+Professional,46,55,0,Female,High School,Divorced,20430
+Sales,55,48,0,Male,High School,Divorced,30645
+Production,78,47,0,Male,High School,Married,20430
+Service,25,21,3,Female,High School,Married,1589
+Professional,58,48,0,Male,Bachelor,Divorced,30645
+Production,19,24,0,Female,High School,Never Married,908
+Business/Finance,43,53,4,Male,Graduate,Married,54480
+Service,43,36,0,Male,High School,Never Married,12485
+Professional,44,55,1,Female,Graduate,Divorced,151050.7214
+Construction/Extraction,23,43,2,Male,High School,Never Married,10782.5
+Professional,40,62,2,Female,High School,Married,2043
+Office and Administrative Support,62,25,2,Male,High School,Divorced,30645
+Professional,55,59,2,Male,Junior College,Married,30645
+Sales,25,38,0,Female,High School,Married,20430
+Professional,52,74,1,Male,Bachelor,Divorced,24970
+Sales,52,30,0,Male,High School,Never Married,5107.5
+Production,41,27,1,Male,Bachelor,Never Married,12485
+Service,50,48,0,Female,Bachelor,Never Married,14755
+Professional,69,70,0,Male,High School,Married,17025
+Office and Administrative Support,63,47,2,Female,High School,Married,17025
+Professional,59,54,3,Female,Bachelor,Married,10782.5
+Professional,39,64,0,Female,Bachelor,Divorced,24970
+Business/Finance,38,60,4,Male,Graduate,Married,30645
+Service,63,24,6,Male,Less Than High School,Never Married,1589
+Production,58,39,2,Male,High School,Widowed,20430
+Office and Administrative Support,25,35,1,Male,High School,Never Married,9647.5
+Business/Finance,51,53,3,Male,High School,Married,45400
+Service,69,25,1,Female,High School,Divorced,6242.5
+Professional,45,72,2,Female,Graduate,Married,63560
+Office and Administrative Support,73,40,1,Female,High School,Widowed,24970
+Professional,35,53,2,Female,Bachelor,Married,9647.5
+Professional,61,61,0,Female,Bachelor,Never Married,30645
+Business/Finance,54,53,2,Male,High School,Married,30645
+Professional,47,64,3,Female,Bachelor,Married,24970
+Business/Finance,63,39,5,Male,Bachelor,Married,63560
+Construction/Extraction,64,35,2,Male,Less Than High School,Married,20430
+Transportation,27,25,0,Male,High School,Married,14755
+Business/Finance,26,50,1,Female,High School,Never Married,14755
+Business/Finance,41,59,0,Male,High School,Married,30645
+Production,54,47,0,Male,High School,Divorced,45400
+Construction/Extraction,51,37,0,Male,Less Than High School,Married,227
+Sales,54,28,3,Female,High School,Married,10782.5
+Business/Finance,59,53,2,Male,Bachelor,Married,45400
+Professional,31,48,1,Female,High School,Never Married,9647.5
+Office and Administrative Support,55,35,3,Female,Junior College,Widowed,227
+Business/Finance,30,57,2,Female,Bachelor,Married,30645
+Office and Administrative Support,48,38,0,Male,Bachelor,Divorced,30645
+Construction/Extraction,29,35,2,Male,High School,Never Married,7377.5
+Professional,36,73,3,Male,Bachelor,Married,37455
+Professional,64,54,0,Female,Junior College,Never Married,24970
+Professional,63,64,2,Female,Bachelor,Married,20430
+Production,24,24,1,Male,High School,Never Married,14755
+Professional,66,64,5,Male,Bachelor,Married,37455
+Professional,47,64,1,Female,Bachelor,Married,37455
+Business/Finance,53,59,5,Male,Bachelor,Married,20430
+Office and Administrative Support,26,32,0,Female,High School,Never Married,9647.5
+Professional,35,46,2,Female,Bachelor,Married,20430
+Professional,59,69,1,Male,Graduate,Married,54480
+Sales,55,49,4,Male,Less Than High School,Married,14755
+Sales,50,43,2,Female,Bachelor,Divorced,30645
+"Installation, Maintenance, and Repair",49,45,0,Male,High School,Divorced,17025
+Business/Finance,57,53,2,Male,High School,Divorced,45400
+Transportation,45,51,1,Male,Bachelor,Divorced,54480
+Professional,58,44,5,Female,High School,Married,54480
+Business/Finance,45,64,2,Female,Graduate,Married,30645
+Office and Administrative Support,56,31,4,Female,Bachelor,Divorced,63560
+Production,24,24,0,Male,High School,Never Married,14755
+Professional,49,64,2,Female,Bachelor,Never Married,20430
+Construction/Extraction,25,49,0,Male,High School,Never Married,8512.5
+Business/Finance,72,52,3,Female,Bachelor,Divorced,45400
+Professional,64,54,2,Female,High School,Divorced,12485
+Service,24,48,1,Female,High School,Never Married,1589
+Service,27,37,1,Male,High School,Never Married,12485
+Service,33,21,0,Female,High School,Married,7377.5
+Professional,28,61,1,Female,Bachelor,Never Married,14755
+Professional,45,64,2,Female,Graduate,Married,20430
+Construction/Extraction,34,32,1,Male,Less Than High School,Married,30645
+Business/Finance,59,53,2,Female,High School,Divorced,20430
+Transportation,49,26,4,Male,Bachelor,Divorced,72640
+Service,24,21,0,Female,Less Than High School,Never Married,908
+Service,53,48,1,Female,High School,Never Married,20430
+"Farming, Fishing, and Forestry",21,29,0,Male,High School,Never Married,227
+Construction/Extraction,34,49,4,Male,High School,Married,30645
+Professional,60,55,2,Female,High School,Divorced,30645
+"Installation, Maintenance, and Repair",33,45,2,Male,High School,Married,30645
+Professional,30,61,8,Female,High School,Married,17025
+Production,43,27,3,Male,High School,Divorced,10782.5
+Construction/Extraction,27,43,1,Male,Less Than High School,Never Married,9647.5
+Service,61,33,6,Female,Less Than High School,Divorced,9647.5
+Transportation,39,35,2,Male,High School,Separated,30645
+Service,55,33,5,Female,Less Than High School,Married,30645
+Sales,49,45,3,Male,Less Than High School,Married,30645
+Transportation,43,47,3,Male,Less Than High School,Married,30645
+Service,45,21,3,Female,Less Than High School,Widowed,1589
+Construction/Extraction,51,49,0,Male,High School,Divorced,54480
+Service,34,33,3,Female,High School,Never Married,5107.5
+Professional,28,63,0,Male,Bachelor,Married,54480
+Sales,35,49,1,Female,Junior College,Married,20430
+Professional,61,63,3,Male,Bachelor,Widowed,151050.7214
+Professional,35,64,0,Female,Graduate,Married,24970
+Production,66,51,0,Female,High School,Divorced,20430
+Service,60,48,0,Male,High School,Never Married,20430
+Construction/Extraction,34,44,0,Male,High School,Never Married,24970
+Professional,24,55,0,Male,High School,Never Married,14755
+Professional,64,69,4,Female,Bachelor,Divorced,24970
+Construction/Extraction,56,32,3,Male,Less Than High School,Never Married,12485
+Sales,60,18,0,Female,Bachelor,Divorced,24970
+Professional,73,55,1,Male,High School,Married,5107.5
+Professional,56,65,4,Female,Graduate,Married,37455
+Professional,56,72,2,Male,Graduate,Married,63560
+Business/Finance,44,39,2,Female,Graduate,Married,54480
+Business/Finance,55,72,1,Male,Graduate,Married,151050.7214
+Professional,24,54,0,Male,Bachelor,Never Married,4086
+Armed Forces,29,62,0,Male,Bachelor,Never Married,37455
+Construction/Extraction,46,35,1,Male,High School,Never Married,4086
+Service,30,21,1,Female,High School,Never Married,24970
+Professional,49,64,2,Female,Bachelor,Divorced,30645
+Office and Administrative Support,51,46,6,Male,Junior College,Divorced,17025
+"Installation, Maintenance, and Repair",24,45,2,Male,High School,Married,14755
+Transportation,42,22,4,Female,Less Than High School,Divorced,908
+"Installation, Maintenance, and Repair",30,45,3,Male,High School,Married,20430
+Office and Administrative Support,32,40,3,Female,High School,Married,20430
+Office and Administrative Support,28,47,5,Female,High School,Divorced,9647.5
+Business/Finance,51,39,0,Female,High School,Divorced,54480
+"Installation, Maintenance, and Repair",32,49,0,Male,High School,Never Married,14755
+Office and Administrative Support,59,46,4,Male,High School,Married,24970
+Service,38,21,5,Female,Less Than High School,Married,3405
+"Farming, Fishing, and Forestry",59,27,4,Male,Less Than High School,Separated,3405
+"Farming, Fishing, and Forestry",42,47,3,Female,Less Than High School,Married,7377.5
+Business/Finance,34,53,0,Male,Graduate,Never Married,37455
+Professional,32,59,1,Female,Bachelor,Never Married,12485
+Transportation,35,26,3,Female,High School,Married,2497
+Professional,60,51,2,Female,High School,Divorced,14755
+Office and Administrative Support,56,46,2,Female,Bachelor,Married,24970
+Professional,55,61,2,Female,Bachelor,Married,45400
+Professional,46,69,3,Female,Graduate,Separated,30645
+Service,25,50,0,Male,Bachelor,Never Married,8512.5
+Transportation,55,65,2,Male,Bachelor,Married,151050.7214
+"Installation, Maintenance, and Repair",57,33,2,Male,Junior College,Divorced,45400
+Service,44,66,2,Male,Graduate,Married,72640
+Professional,44,73,0,Male,Graduate,Never Married,20430
+Professional,58,72,3,Female,Graduate,Divorced,72640
+Service,41,33,1,Female,Junior College,Divorced,9647.5
+Business/Finance,36,47,1,Female,Bachelor,Never Married,17025
+Business/Finance,25,52,0,Female,High School,Married,9647.5
+Office and Administrative Support,33,32,1,Female,High School,Never Married,14755
+Professional,37,60,1,Male,High School,Never Married,12485
+Construction/Extraction,36,49,0,Male,Less Than High School,Separated,14755
+Business/Finance,61,53,4,Female,High School,Divorced,30645
+Professional,71,73,1,Male,Graduate,Married,45400
+Professional,53,61,0,Male,Graduate,Married,30645
+Service,44,37,2,Male,High School,Divorced,14755
+"Installation, Maintenance, and Repair",50,45,2,Male,Junior College,Divorced,24970
+Construction/Extraction,35,41,0,Male,High School,Separated,20430
+Business/Finance,44,42,0,Male,High School,Married,20430
+Service,18,33,0,Male,Less Than High School,Never Married,2043
+Service,36,33,0,Male,High School,Never Married,12485
+Office and Administrative Support,56,32,3,Female,Junior College,Separated,17025
+Sales,53,31,2,Female,High School,Never Married,8512.5
+Service,51,37,2,Female,High School,Separated,9647.5
+Professional,52,69,2,Female,Junior College,Married,24970
+Transportation,22,25,0,Male,High School,Never Married,8512.5
+Professional,28,54,0,Male,Graduate,Never Married,24970
+Transportation,26,25,2,Male,High School,Married,10782.5
+Service,59,34,2,Male,High School,Married,9647.5
+Construction/Extraction,64,41,5,Male,High School,Married,17025
+Professional,37,63,1,Male,Bachelor,Married,30645
+Construction/Extraction,39,52,4,Male,Bachelor,Married,37455
+Business/Finance,40,53,2,Female,Junior College,Married,30645
+Office and Administrative Support,33,39,1,Female,Junior College,Never Married,14755
+Service,57,60,4,Female,High School,Divorced,14755
+Professional,44,64,2,Female,Junior College,Widowed,30645
+Business/Finance,48,60,3,Male,Bachelor,Married,63560
+Construction/Extraction,27,35,0,Male,High School,Never Married,24970
+"Installation, Maintenance, and Repair",46,56,3,Male,High School,Married,30645
+Armed Forces,51,48,3,Male,Junior College,Married,24970
+Professional,63,75,2,Male,Bachelor,Married,30645
+Business/Finance,56,39,2,Female,Bachelor,Married,151050.7214
+Production,39,32,4,Male,High School,Married,14755
+Professional,34,48,3,Female,Junior College,Never Married,6242.5
+Service,36,33,2,Female,High School,Married,6242.5
+Service,39,24,3,Male,Junior College,Married,12485
+Service,49,49,0,Female,High School,Married,20430
+Transportation,36,31,3,Female,Bachelor,Married,12485
+Construction/Extraction,40,28,2,Male,Less Than High School,Married,20430
+Professional,38,61,2,Female,Graduate,Married,20430
+Professional,59,66,3,Male,Graduate,Married,30645
+Service,25,55,0,Female,High School,Married,9647.5
+Professional,37,55,3,Female,High School,Married,14755
+Service,34,21,7,Female,High School,Never Married,12485
+Service,32,24,0,Female,High School,Never Married,9647.5
+Armed Forces,26,48,0,Male,Bachelor,Never Married,9647.5
+Construction/Extraction,53,28,8,Male,High School,Separated,151050.7214
+Service,20,31,0,Female,High School,Never Married,227
+Armed Forces,39,62,2,Female,High School,Divorced,20430
+Service,38,59,2,Female,High School,Married,24970
+Professional,33,69,0,Male,Graduate,Never Married,37455
+Service,25,50,1,Male,High School,Never Married,12485
+Service,55,33,1,Female,Less Than High School,Never Married,20430
+Office and Administrative Support,55,25,3,Female,High School,Married,14755
+Business/Finance,61,39,4,Female,High School,Widowed,227
+"Installation, Maintenance, and Repair",29,38,1,Male,High School,Never Married,45400
+Service,29,36,2,Female,High School,Married,6242.5
+Office and Administrative Support,31,47,3,Female,High School,Never Married,20430
+Service,37,48,2,Female,High School,Divorced,8512.5
+Business/Finance,52,46,3,Male,High School,Married,63560
+Production,36,49,1,Female,High School,Never Married,14755
+Sales,47,31,0,Female,High School,Divorced,20430
+Professional,56,64,2,Female,Bachelor,Married,30645
+Construction/Extraction,40,42,1,Male,High School,Married,20430
+Business/Finance,39,59,2,Male,Graduate,Married,37455
+Office and Administrative Support,30,35,0,Female,Bachelor,Never Married,6242.5
+Professional,39,55,0,Male,Graduate,Never Married,17025
+Service,56,48,2,Female,High School,Divorced,2043
+Transportation,62,35,1,Male,High School,Married,30645
+Professional,33,61,1,Female,Graduate,Married,20430
+Professional,50,64,2,Female,Graduate,Married,30645
+Construction/Extraction,51,40,2,Male,Bachelor,Married,37455
+Service,42,31,0,Female,High School,Never Married,4086
+Construction/Extraction,59,44,0,Male,High School,Divorced,20430
+Service,29,33,0,Male,Bachelor,Never Married,17025
+Office and Administrative Support,32,40,3,Female,High School,Married,12485
+Construction/Extraction,32,49,1,Male,Less Than High School,Never Married,17025
+Service,27,24,0,Male,High School,Never Married,12485
+Service,40,25,0,Female,High School,Married,10782.5
+Production,47,35,1,Female,Bachelor,Divorced,7377.5
+Service,56,33,3,Female,Less Than High School,Married,12485
+Office and Administrative Support,57,47,2,Female,High School,Married,14755
+Office and Administrative Support,55,45,2,Female,High School,Divorced,1589
+Construction/Extraction,55,49,4,Male,High School,Married,54480
+Office and Administrative Support,48,47,2,Female,High School,Married,7377.5
+Service,56,24,2,Female,Junior College,Divorced,20430
+Service,29,37,1,Male,High School,Divorced,5107.5
+Service,57,48,2,Female,High School,Divorced,17025
+Sales,37,28,3,Male,High School,Divorced,5107.5
+Transportation,34,22,4,Female,Less Than High School,Married,8512.5
+Professional,24,61,0,Female,Bachelor,Never Married,14755
+Business/Finance,21,45,0,Female,High School,Never Married,10782.5
+Service,30,37,3,Male,Less Than High School,Never Married,2497
+Production,46,39,4,Male,High School,Divorced,37455
+Service,34,50,3,Female,Less Than High School,Married,4086
+Sales,34,38,3,Female,Junior College,Married,20430
+Office and Administrative Support,40,45,5,Female,Junior College,Married,20430
+Production,56,38,2,Male,Junior College,Married,908
+Office and Administrative Support,30,32,1,Female,High School,Married,12485
+Office and Administrative Support,35,39,6,Female,High School,Married,10782.5
+Service,48,38,2,Female,High School,Married,17025
+Production,34,34,4,Male,Less Than High School,Never Married,9647.5
+Construction/Extraction,41,34,2,Male,High School,Never Married,227
+Service,30,20,1,Male,High School,Never Married,12485
+Service,21,25,0,Female,High School,Never Married,1589
+Office and Administrative Support,28,47,2,Female,High School,Married,9647.5
+Office and Administrative Support,40,37,0,Male,High School,Married,14755
+Service,32,24,0,Male,High School,Never Married,9647.5
+Service,26,57,0,Male,High School,Never Married,17025
+Professional,56,50,0,Male,Bachelor,Married,54480
+Service,52,48,3,Female,High School,Divorced,24970
+Professional,53,70,2,Male,Bachelor,Married,37455
+"Installation, Maintenance, and Repair",43,49,1,Female,Junior College,Married,30645
+Service,57,21,3,Female,Bachelor,Widowed,2951
+Office and Administrative Support,39,29,4,Male,High School,Never Married,37455
+Business/Finance,50,44,2,Male,Junior College,Married,24970
+Professional,54,59,0,Female,Graduate,Married,17025
+Professional,25,58,0,Female,Bachelor,Never Married,4086
+Sales,29,31,0,Female,High School,Married,14755
